@@ -8,3 +8,4 @@ Los Angeles, California, attracts people from all over the world who are looking
 In this project you'll serve as a data detective, supporting the Los Angeles Police Department (LAPD) in analyzing their crime data to help shape how they should allocate resources to best protect the people of their city!
 # project idea from:
 datacamp
+ ## the file names crimes.csv is too big (bigger than 25mb) therefore i couldn't upload it.
